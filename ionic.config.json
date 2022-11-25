@@ -1,0 +1,7 @@
+{
+  "name": "Cona",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
